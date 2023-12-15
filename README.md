@@ -1,5 +1,5 @@
 # Python Sale Analysis
-In this projetc, I will using sale data to walk through all data analyst jobs from data importing, data cleaning, data preparation to data analysis to give the useful insights. 
+In this project, I will using sale data to walk through all data analyst jobs from data importing, data cleaning, data preparation to data analysis to give the useful insights. 
 
 # Task 1: Data Importing
 - Merging 12 months of sale data into a single file.
